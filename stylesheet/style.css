@@ -49,9 +49,10 @@ body {
 .attribution {
     font-size: 11px;
     text-align: center;
+    padding-top: 80px;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
-    font-size: 11px;
+    font-size: 9px;
 }
