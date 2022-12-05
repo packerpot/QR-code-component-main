@@ -45,11 +45,14 @@ body {
     opacity: 0.3;
 }
 
+footer {
+    padding-top: 150px;
+    width: 245px;
+}
 
 .attribution {
     font-size: 11px;
     text-align: center;
-    padding-top: 80px;
 }
 
 .attribution a {
